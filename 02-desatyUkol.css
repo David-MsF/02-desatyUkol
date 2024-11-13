@@ -1,0 +1,39 @@
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+}
+
+
+
+
+
+
+body{
+    background-image:url('./image/jezisek.jpg') ;
+    background-size: cover;
+}
+
+
+
+
+
+.buttonJezisek {
+    margin: auto;
+    display: flex;
+}
+
+.buttonDabel {
+    display: flex;
+    margin: auto;
+}
+
+.jezisek{
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.dabel{
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
